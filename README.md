@@ -1,5 +1,5 @@
 # Icelandic-Curses
-This is a list of icelandic curses. It can be useful for filtering out age inappropriate content for children.
+This is a list of icelandic curses or taboo words. One use is for filtering out age inappropriate content for children.
 
 # License
 
