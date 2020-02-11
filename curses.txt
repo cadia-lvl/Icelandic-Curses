@@ -7,6 +7,7 @@ drusla
 Farðu í rass.
 Farðu í rassgat.
 Farðu norður og niður.
+Farðu til fjandanns!
 Fokking veður.
 Helvíti!
 Helvítis veður.
