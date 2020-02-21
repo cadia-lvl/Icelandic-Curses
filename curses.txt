@@ -4,6 +4,7 @@ asni
 Djöfull helvítis andskotans.
 drullusokkar
 drusla
+éttu skít
 Farðu í rass.
 Farðu í rassgat.
 Farðu norður og niður.
