@@ -17,6 +17,7 @@ píka
 rass
 ríða
 skíta
+skítsama
 tittlingur
 Veðrið er skítt
 Þetta er skítaveður.
