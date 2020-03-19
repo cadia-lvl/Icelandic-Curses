@@ -5,8 +5,9 @@ This is a list of icelandic curses or taboo words. One use is for filtering out 
 
 This content is available under the Apache 2.0 license.
 
-## Contributor 
+## Contributors
 
 Judy Fong
+David Erik Mollberg
 
 
