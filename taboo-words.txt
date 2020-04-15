@@ -200,5 +200,6 @@ sjálfsvígunum
 skíta
 skítsama
 tittlingur
+tík
 Veðrið er skítt
 Þetta er skítaveður.
