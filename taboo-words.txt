@@ -322,8 +322,6 @@ andskotandi
 andskotann
 andskotanna
 andskotans
-Andskotans djöfull
-Andskotans veður.
 andskotanum
 andskotarðu
 andskotarnir
@@ -1146,7 +1144,6 @@ djöfullegur
 djöfullegust
 djöfullegustu
 djöfullegustum
-Djöfull helvítis andskotans.
 djöfulli
 djöfullinn
 djöfulóð
@@ -1667,7 +1664,6 @@ endaþarmurinn
 endaþörmum
 endaþörmunum
 endurákærunni
-éttu skít
 fábjána
 fábjánana
 fábjánann
@@ -1788,10 +1784,6 @@ fáráðurinn
 fáráðust
 fáráðustum
 fárátt
-Farðu í rass.
-Farðu í rassgat.
-Farðu norður og niður.
-Farðu til fjandanns!
 fasísk
 fasíska
 fasískan
@@ -1951,6 +1943,7 @@ fjandakornsins
 fjandana
 fjandann
 fjandanna
+fjandanns
 fjandans
 fjandanum
 fjandar
@@ -2056,7 +2049,6 @@ fokkast
 fokki
 fokkið
 fokking
-Fokking veður.
 fokkinu
 fokkir
 fokkist
@@ -3339,7 +3331,6 @@ helvítin
 helvítinu
 helvítis
 helvítisins
-Helvítis veður.
 helvítum
 helvítunum
 héraðssaksóknarar
@@ -7697,6 +7688,7 @@ skít
 skíta
 skítandi
 skítast
+skítaveður.
 skíthæl
 skíthæla
 skíthælana
@@ -7747,6 +7739,7 @@ skitnu
 skitnum
 skítsama
 skítstressaður
+skítt
 skíttu
 skíttur
 skitu
@@ -8922,7 +8915,6 @@ varðhaldsrefsingunni
 varðhaldsrefsingunum
 varðhaldsúrskurð
 varðhaldsúrskurði
-Veðrið er skítt
 velsæmisbrot
 velsæmisbrota
 velsæmisbrotanna
@@ -9166,7 +9158,6 @@ yfirlætisfullu
 yfirlætisfullum
 yfirlætisfullur
 zíonisti
-Þetta er skítaveður.
 þjóðarmorð
 þjóðarmorðanna
 þjóðarmorðið

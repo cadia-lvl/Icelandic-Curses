@@ -1,0 +1,16 @@
+andskotans, Andskotans djöfull
+djöfull, Andskotans djöfull
+andskotans, Andskotans veður.
+djöfull, Djöfull helvítis andskotans.
+andskotans, Djöfull helvítis andskotans.
+helvítis, Djöfull helvítis andskotans.
+skít, éttu skít
+rass, Farðu í rass.
+rassgat, Farðu í rassgat.
+N/A, Farðu norður og niður.
+fjandanns, Farðu til fjandanns!
+fokking, Fokking veður.
+helvítis, Helvítis veður.
+N/A, Jesús Kristur
+skítt, Veðrið er skítt
+skítaveður, Þetta er skítaveður.
